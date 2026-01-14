@@ -31,6 +31,14 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.spec
+
+# PyInstaller
+*.manifest
+*.exe
+!analyze.bat
+!gui_start.bat
+!build.bat
 
 # Virtual environments
 venv/

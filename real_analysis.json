@@ -1,0 +1,41 @@
+[
+  {
+    "file_name": "IMG_1486.CR2",
+    "file_path": "D:\\1python_projects\\canon\\IMG_1486.CR2",
+    "file_type": "cr2",
+    "file_size_bytes": 29811695,
+    "real_file_type": "CR2",
+    "mime_type": "image/x-canon-cr2",
+    "file_type_mismatch": false,
+    "camera_make": "Canon",
+    "camera_model": "Canon EOS 200D",
+    "lens_model": "EF-S17-55mm f/2.8 IS USM",
+    "serial_number": "053070027484",
+    "internal_serial": "AG0254180",
+    "firmware": null,
+    "datetime_original": "2025:12:24 17:58:02",
+    "datetime_digitized": null,
+    "file_modify_date": "2026:01:14 16:34:45+03:00",
+    "shutter_count": null,
+    "shutter_count_source": "none",
+    "shutter_count_present": false,
+    "file_number_hint": 1486,
+    "file_number_warning": "Номер файла НЕ равен пробегу затвора; может сбрасываться, зависит от карты/настроек",
+    "directory_number": null,
+    "image_unique_id": null,
+    "software": null,
+    "processing_software": null,
+    "not_out_of_camera": false,
+    "editing_detected_warning": null,
+    "iso": 1600,
+    "aperture": "5.6",
+    "shutter_speed": "0.008",
+    "focal_length": "17",
+    "image_width": 6000,
+    "image_height": 4000,
+    "exif_integrity_notes": [
+      "⚠️ Shutter count в EXIF отсутствует / Shutter count in EXIF not present; cannot be determined from this file. Для Canon это частое явление."
+    ],
+    "errors": []
+  }
+]
