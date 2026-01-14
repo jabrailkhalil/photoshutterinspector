@@ -23,8 +23,21 @@ class PhotoShutterGUI:
         self.create_widgets()
     
     def init_inspector(self):
+        # Ищем exiftool рядом с exe/скриптом
+        import sys
+        if getattr(sys, 'frozen', False):
+            # Запущено как exe (PyInstaller)
+            base_path = Path(sys.executable).parent
+        else:
+            # Запущено как скрипт
+            base_path = Path(__file__).parent
+        
+        exiftool_path = base_path / 'exiftool.exe'
+        if not exiftool_path.exists():
+            exiftool_path = 'exiftool'  # Fallback на PATH
+        
         try:
-            self.inspector = PhotoShutterInspector()
+            self.inspector = PhotoShutterInspector(exiftool_path=str(exiftool_path))
             self.exiftool_status = f"✅ ExifTool {self.inspector.exiftool_version}"
         except RuntimeError as e:
             self.inspector = None
