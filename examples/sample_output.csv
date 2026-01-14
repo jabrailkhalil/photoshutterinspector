@@ -1,0 +1,4 @@
+file_name,file_type,camera_make,camera_model,serial_number,firmware,lens_model,datetime_original,shutter_count,shutter_count_present,shutter_count_source,file_number_hint,not_out_of_camera,iso,aperture,shutter_speed
+IMG_1486.CR2,cr2,Canon,Canon EOS 200D,,Firmware Version 1.0.1,EF-S18-55mm f/4-5.6 IS STM,2024:01:15 14:30:00,,False,none,1486,False,400,5.6,1/250
+DSC_5678.NEF,nef,NIKON CORPORATION,NIKON D750,1234567,Ver.1.13,AF-S NIKKOR 24-70mm f/2.8E ED VR,2024:01:20 16:45:00,45230,True,MakerNotes:ShutterCount,5678,False,800,2.8,1/500
+processed_photo.jpg,jpg,Canon,Canon EOS R5,012345678901,Firmware Version 1.8.1,RF24-70mm F2.8 L IS USM,2024:02:10 10:00:00,,False,none,1234,True,100,8,1/125

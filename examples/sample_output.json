@@ -1,0 +1,68 @@
+[
+    {
+        "file_name": "IMG_1486.CR2",
+        "file_type": "cr2",
+        "camera_make": "Canon",
+        "camera_model": "Canon EOS 200D",
+        "serial_number": null,
+        "firmware": "Firmware Version 1.0.1",
+        "lens_model": "EF-S18-55mm f/4-5.6 IS STM",
+        "datetime_original": "2024:01:15 14:30:00",
+        "shutter_count": null,
+        "shutter_count_present": false,
+        "shutter_count_source": "none",
+        "file_number_hint": 1486,
+        "file_number_warning": "Номер файла НЕ равен пробегу затвора; может сбрасываться, зависит от карты/настроек",
+        "not_out_of_camera": false,
+        "exif_integrity_notes": [
+            "⚠️ Shutter count в EXIF отсутствует / Shutter count in EXIF not present; cannot be determined from this file. Для Canon это частое явление."
+        ],
+        "iso": 400,
+        "aperture": "5.6",
+        "shutter_speed": "1/250"
+    },
+    {
+        "file_name": "DSC_5678.NEF",
+        "file_type": "nef",
+        "camera_make": "NIKON CORPORATION",
+        "camera_model": "NIKON D750",
+        "serial_number": "1234567",
+        "firmware": "Ver.1.13",
+        "lens_model": "AF-S NIKKOR 24-70mm f/2.8E ED VR",
+        "datetime_original": "2024:01:20 16:45:00",
+        "shutter_count": 45230,
+        "shutter_count_present": true,
+        "shutter_count_source": "MakerNotes:ShutterCount",
+        "file_number_hint": 5678,
+        "file_number_warning": "Номер файла НЕ равен пробегу затвора; может сбрасываться, зависит от карты/настроек",
+        "not_out_of_camera": false,
+        "exif_integrity_notes": [],
+        "iso": 800,
+        "aperture": "2.8",
+        "shutter_speed": "1/500"
+    },
+    {
+        "file_name": "processed_photo.jpg",
+        "file_type": "jpg",
+        "camera_make": "Canon",
+        "camera_model": "Canon EOS R5",
+        "serial_number": "012345678901",
+        "firmware": "Firmware Version 1.8.1",
+        "lens_model": "RF24-70mm F2.8 L IS USM",
+        "datetime_original": "2024:02:10 10:00:00",
+        "shutter_count": null,
+        "shutter_count_present": false,
+        "shutter_count_source": "none",
+        "file_number_hint": 1234,
+        "file_number_warning": "Номер файла НЕ равен пробегу затвора; может сбрасываться, зависит от карты/настроек",
+        "not_out_of_camera": true,
+        "editing_detected_warning": "Обнаружен редактор/платформа: Lightroom. Метаданные могут быть изменены или удалены.",
+        "exif_integrity_notes": [
+            "⚠️ Shutter count в EXIF отсутствует / Shutter count in EXIF not present; cannot be determined from this file. Для Canon это частое явление.",
+            "Обнаружен редактор/платформа: Lightroom. Метаданные могут быть изменены или удалены."
+        ],
+        "iso": 100,
+        "aperture": "8",
+        "shutter_speed": "1/125"
+    }
+]
